@@ -42,6 +42,11 @@ Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/lekegitrepo/Tic-Tac-Toe/issues).
 
+## Future Improvements
+
+- Use sass for styling.
+- Improve logic for game board.
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
