@@ -38,14 +38,14 @@ Tic-tac-toe (American English), noughts and crosses (British English), or Xs and
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/lekegitrepo/Tic-Tac-Toe/issues).
 
 ## Future Improvements
 
 - Use sass for styling.
-- Improve logic for game board.
+- Improve logic for the game board.
 
 ## Show your support
 
@@ -54,4 +54,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MiT](https://opensource.org/licenses/MIT) licensed.
-
